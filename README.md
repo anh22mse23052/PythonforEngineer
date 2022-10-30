@@ -1,5 +1,5 @@
 # Python for Engineer
-### Họa và tên: Hoàng Tuấn Anh
+### Họ và tên: Hoàng Tuấn Anh
 ### MSHV: 22MSE23052
 
 
